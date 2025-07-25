@@ -23,9 +23,9 @@ This landing page was created as part of my **Web Development & Designing Intern
 
 ## 📸 Screenshot
 
-> *Insert a live preview or screenshot*  
 > Example:  
-> ![Landing Page Preview](link-to-image)
+> ![Landing Page Preview](https://github.com/UtkarshSingh-01/Landing-Page/blob/main/assets/Screenshot%202025-07-25%20230929.png)
+> ![Landing Page Preview](https://github.com/UtkarshSingh-01/Landing-Page/blob/main/assets/Screenshot%202025-07-25%20230929.png)
 
 ## 🌐 Live Demo
 
