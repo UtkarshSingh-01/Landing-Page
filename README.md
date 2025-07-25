@@ -25,7 +25,7 @@ This landing page was created as part of my **Web Development & Designing Intern
 
 > Example:  
 > ![Landing Page Preview](https://github.com/UtkarshSingh-01/Landing-Page/blob/main/assets/Screenshot%202025-07-25%20230929.png)
-> ![Landing Page Preview](https://github.com/UtkarshSingh-01/Landing-Page/blob/main/assets/Screenshot%202025-07-25%20230929.png)
+> ![Landing Page Preview](https://github.com/UtkarshSingh-01/Landing-Page/blob/main/assets/Screenshot%202025-07-25%20230953.png)
 
 ## 🌐 Live Demo
 
